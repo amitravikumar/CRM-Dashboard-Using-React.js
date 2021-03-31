@@ -1,0 +1,49 @@
+{
+    "options": [
+        {
+            "_id":1,
+            "avatar":"AB",
+            "name":"Albert Bourschow",
+            "email":"ab@gmail.com",
+            "company":"Localhost Ltd.",
+            "address": "Chennai",
+            "phone": 5645125565
+        },
+        {
+            "_id":1,
+            "avatar":"AC",
+            "name":"Albert Chloe",
+            "email":"ac@gmail.com",
+            "company":"Localhost Ltd.",
+            "address": "Chennai",
+            "phone": 5645125565
+        },
+        {
+            "_id":1,
+            "avatar":"AD",
+            "name":"Albert Dunk",
+            "email":"ad@gmail.com",
+            "company":"Localhost Ltd.",
+            "address": "Chennai",
+            "phone": 5645125565
+        },
+        {
+            "_id":1,
+            "avatar":"AE",
+            "name":"Albert Enemy",
+            "email":"ae@gmail.com",
+            "company":"Localhost Ltd.",
+            "address": "Chennai",
+            "phone": 5645125565
+        },{
+            "_id":1,
+            "avatar":"AF",
+            "name":"Albert Frank",
+            "email":"af@gmail.com",
+            "company":"Localhost Ltd.",
+            "address": "Chennai",
+            "phone": 5645125565
+        }
+       
+    ]
+}
